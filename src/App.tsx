@@ -438,7 +438,7 @@ export default function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center z-10 pointer-events-none opacity-45"
           style={{
-            backgroundImage: `url('/src/assets/images/delivery_hero_background_1779437692703.png')`,
+            backgroundImage: `url('/images/delivery_hero_background_1779437692703.png')`,
           }}
         />
 
@@ -1272,7 +1272,7 @@ export default function App() {
             {/* Image Block */}
             <div className="lg:col-span-7 h-[300px] lg:h-auto min-h-[350px] relative">
               <img 
-                src="/src/assets/images/delivery_shipper_1779438218388.png" 
+                src="/images/delivery_shipper_1779438218388.png" 
                 alt="Document and Parcel Shipping" 
                 referrerPolicy="no-referrer"
                 className="absolute inset-0 w-full h-full object-cover object-center"
@@ -1291,7 +1291,7 @@ export default function App() {
             {/* Image Block (Left on Desktop) */}
             <div className="lg:col-span-7 h-[300px] lg:h-auto min-h-[350px] order-2 lg:order-1 relative">
               <img 
-                src="/src/assets/images/cargo_shipping_1779438237814.png" 
+                src="/images/cargo_shipping_1779438237814.png" 
                 alt="Cargo Shipping" 
                 referrerPolicy="no-referrer"
                 className="absolute inset-0 w-full h-full object-cover object-center"
@@ -1416,7 +1416,7 @@ export default function App() {
             {/* Image Block */}
             <div className="lg:col-span-7 h-[300px] lg:h-auto min-h-[350px] relative">
               <img 
-                src="/src/assets/images/warehouse_logistics_1779438256893.png" 
+                src="/images/warehouse_logistics_1779438256893.png" 
                 alt="Enterprise Logistics Services" 
                 referrerPolicy="no-referrer"
                 className="absolute inset-0 w-full h-full object-cover object-center"
@@ -1436,7 +1436,7 @@ export default function App() {
             <div className="w-full md:w-1/3 shrink-0 self-stretch relative hidden md:block">
               <div className="absolute inset-y-0 left-0 right-4 overflow-hidden -skew-x-12 bg-black border-r-4 border-black">
                 <img 
-                  src="/src/assets/images/delivery_shipper_1779438218388.png" 
+                  src="/images/delivery_shipper_1779438218388.png" 
                   alt="Corporate fleet expert" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover scale-110 skew-x-12"
@@ -1503,7 +1503,7 @@ export default function App() {
             <div className="group rounded-2xl overflow-hidden shadow-md border border-neutral-200 bg-white hover:shadow-xl transition-all flex flex-col">
               <div className="h-52 overflow-hidden relative bg-neutral-100">
                 <img 
-                  src="/src/assets/images/courier_van_1779438295065.png" 
+                  src="/images/courier_van_1779438295065.png" 
                   alt="Delivery Carrier Operations" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-103 transition-transform duration-500"
@@ -1536,7 +1536,7 @@ export default function App() {
             <div className="group rounded-2xl overflow-hidden shadow-md border border-neutral-200 bg-white hover:shadow-xl transition-all flex flex-col">
               <div className="h-52 overflow-hidden relative bg-neutral-100">
                 <img 
-                  src="/src/assets/images/tech_lobby_1779438316950.png" 
+                  src="/images/tech_lobby_1779438316950.png" 
                   alt="Welcome to the Future" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-103 transition-transform duration-500"
@@ -1569,7 +1569,7 @@ export default function App() {
             <div className="group rounded-2xl overflow-hidden shadow-md border border-neutral-200 bg-white hover:shadow-xl transition-all flex flex-col">
               <div className="h-52 overflow-hidden relative bg-neutral-100">
                 <img 
-                  src="/src/assets/images/chart_collage_1779438336353.png" 
+                  src="/images/chart_collage_1779438336353.png" 
                   alt="Global Trade Analytics" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-103 transition-transform duration-500"
@@ -1614,7 +1614,7 @@ export default function App() {
               <div className="relative inline-block mx-auto">
                 <div className="absolute inset-0 bg-black/15 rounded-2xl translate-x-2.5 translate-y-3.5 skew-x-1" />
                 <img 
-                  src="/src/assets/images/delivery_hero_background_1779437692703.png" 
+                  src="/images/delivery_hero_background_1779437692703.png" 
                   alt="Logistics Professional Driver" 
                   referrerPolicy="no-referrer"
                   className="w-full max-w-sm h-64 object-cover object-top rounded-2xl relative z-10 border-4 border-black shadow"
