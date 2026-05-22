@@ -1,0 +1,6 @@
+{
+  "name": "Swift Delivery",
+  "description": "A minimalist, premium and highly-responsive delivery hero section with professional tracking, shipping quotes, and subtle parallax effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
